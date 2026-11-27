@@ -1,0 +1,23 @@
+## 🤝 Como Contribuir
+
+Contribuições são muito bem-vindas! Se você tem sugestões de novas regras da ABNT, melhorias de interface ou correções de bugs, sinta-se à vontade para colaborar:
+
+1. Faça um **Fork** deste repositório.
+2. Crie uma *branch* para a sua melhoria (`git checkout -b feature/nova-regra-abnt`).
+3. Faça o *commit* das suas alterações (`git commit -m 'feat: adiciona formatação para artigos de eventos'`).
+4. Envie para o seu Fork (`git push origin feature/nova-regra-abnt`).
+5. Abra um **Pull Request** detalhando o que foi implementado.
+
+> 💡 Antes de abrir um Pull Request, verifique os arquivos de **Specs e Contratos** na pasta `/docs` para garantir que os dados e validações sigam o padrão do projeto.
+
+---
+
+## 📄 Licença, Forks e Atribuição
+
+Este projeto está sob a **Licença Apache 2.0** — consulte os arquivos [LICENSE](LICENSE) e [NOTICE](NOTICE) para mais informações.
+
+* **Contribuições:** Ao enviar um Pull Request para este repositório, você concorda que suas contribuições sejam licenciadas sob a mesma Licença Apache 2.0.
+* **Forks e Projetos Derivados:** Você tem liberdade para clonar, modificar e evoluir este código em seus próprios projetos, **desde que mantenha os avisos de direitos autorais originais, o arquivo `NOTICE` e a atribuição explícita ao autor original**.
+
+### 📌 Como creditar em Forks ou projetos derivados:
+> Baseado no projeto **RefBase**, criado originalmente por [Claudio Sousa](https://github.com/claudiosousareal).
