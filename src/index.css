@@ -1,0 +1,80 @@
+:root {
+  /* Identidade visual */
+  --color-primary: #0497AC;
+  --color-primary-hover: #037786;
+  --color-primary-light: #E4F5F3;
+  --color-secondary: #0AA5A3;
+  --color-accent: #80D94C;
+
+  /* Gradiente da marca */
+  --gradient-brand: linear-gradient(
+    90deg,
+    #0497AC 0%,
+    #0AA5A3 33%,
+    #43BE82 66%,
+    #80D94C 100%
+  );
+
+  /* Superfícies */
+  --color-background: #F5F8FA;
+  --color-surface: #FFFFFF;
+  --color-surface-hover: #F0F4F6;
+  --color-border: #DCE5E9;
+
+  /* Textos */
+  --color-text: #20353C;
+  --color-text-secondary: #52616D;
+  --color-text-muted: #64747D;
+  --color-text-inverse: #FFFFFF;
+
+  /* Feedback */
+  --color-success: #16A34A;
+  --color-warning: #D97706;
+  --color-error: #DC2626;
+  --color-info: #0284C7;
+
+  /* Tipografia */
+  --font-family: "Inter", Arial, sans-serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.5rem;
+  --font-size-2xl: 2rem;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Espaçamentos */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+
+  /* Bordas arredondadas */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+
+  /* Sombras */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+
+  /* Dimensões do layout */
+  --header-height: 64px;
+  --sidebar-width: 240px;
+  --sidebar-collapsed-width: 72px;
+
+  /* Transições */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 350ms ease;
+}
